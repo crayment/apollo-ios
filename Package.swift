@@ -37,13 +37,13 @@ let package = Package(
       url: "https://github.com/stephencelis/SQLite.swift.git",
       .upToNextMinor(from: "0.12.2")),
     .package(
-      url: "https://github.com/daltoniam/Starscream",
+      url: "https://github.com/daltoniam/Starscream.git",
       .upToNextMinor(from: "3.1.1")),
     .package(
       url: "https://github.com/stencilproject/Stencil.git",
       .upToNextMinor(from: "0.14.0")),
     .package(
-      url: "https://github.com/apollographql/InflectorKit",
+      url: "https://github.com/apollographql/InflectorKit.git",
       .upToNextMinor(from: "0.0.2")),
     ],
     targets: [
